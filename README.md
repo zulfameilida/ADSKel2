@@ -14,3 +14,8 @@ Sistem ini berguna agar proses peminjaman ruangan yang selama ini dilakukan seca
 
 ## B. Analisis Berorientasi Objek
 ### 1. Use Case Diagram
+![use case](https://user-images.githubusercontent.com/78604686/232186964-706910de-95ab-4e08-8c50-0b047137a067.jpg)
+
+### 2. Activity Diagram
+
+### 3. Class Diagram
