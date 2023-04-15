@@ -1,3 +1,5 @@
 # RoomieBoomie.com
 
-A. Product Vision Documents 
+## A. Product Vision Documents 
+1. Problem Description
+Prosedur reservasi ruangan yang rumit dan memakan waktu yang lama di IPB University adalah masalah yang ingin kami atasi. Ini adalah kesulitan yang dihadapi oleh banyak individu yang merupakan anggota dari sebuah kepanitiaan atau organisasi, karena prosesnya membutuhkan beberapa pihak, dokumentasi, dan pertemuan fisik. Tujuan dari produk kami adalah untuk mengembangkan platform berbasis web yang menyederhanakan proses pemesanan ruangan di IPB serta membuatnya lebih efisien dan user-friendly. Pengguna dapat mencari ruangan yang tersedia, melakukan reservasi, dan menerima konfirmasi di satu tempat menggunakan platform kami. Kami juga akan menyederhanakan proses dengan menghilangkan kebutuhan akan dokumen fisik dan memungkinkan pengguna untuk menandatangani dan mengirimkan dokumen secara digital. Semua pihak, termasuk penanggung jawab ruangan, administrator, dan pengguna ruangan, akan mendapatkan keuntungan dari keterbukaan dan visibilitas platform kami. Kami berupaya menghemat waktu dan biaya dengan mengembangkan solusi yang terkonsolidasi dan disederhanakan.
