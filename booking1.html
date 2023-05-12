@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Booking Information</title>
+	<link rel="stylesheet" type="text/css" href="styleb1.css">
+</head>
+<body>
+	<nav class="navbar bg-body-tertiary">
+		<div class="container-fluid">
+		  <a class="navbar-brand" href="#"><img src="logo.svg" alt="Logo" width="30" height="24" class="d-inline-block align-text-top">
+			RoomieBoomie
+			
+		  </a>
+		</div>
+	  </nav>
+	<h1>Booking Information</h1>
+	<form>
+		<label for="name">Nama Lengkap:</label>
+		<input type="text" id="name" name="name" required>
+		<label for="email">Email:</label>
+		<input type="email" id="email" name="email" required>
+		<label for="room">Ruangan:</label>
+		<select id="room" name="room" required>
+			<option value="" selected disabled hidden>Select Room</option>
+			<option value="room1">Room 1</option>
+			<option value="room2">Room 2</option>
+			<option value="room3">Room 3</option>
+		</select>
+		<label for="date">Tanggal:</label>
+		<input type="date" id="date" name="date" required>
+		<label for="time">Waktu:</label>
+		<input type="time" id="time" name="time" required>
+		<label for="purpose">Keterangan:</label>
+		<textarea id="purpose" name="purpose" required></textarea>
+		<input type="submit" value="Next">
+	</form>
+</body>
+</html>
