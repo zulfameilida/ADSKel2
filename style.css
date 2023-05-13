@@ -150,8 +150,8 @@ footer {
 }
 
 .rectangle-3 {
-  margin-top: 166px;
-  background-color: #000;
+  margin-top: 100px;
+  background-color: #fff;
   width: 400px;
   height: 484px;
   border-radius: 10px;
@@ -160,4 +160,12 @@ footer {
 .icon-custom {
   width: 240px;
   height: 200px;
+}
+
+.header-custom-3{
+  margin-top: 45px;
+  font-weight: 700;
+  font-size: 20px;
+  color: #181818;
+  margin-bottom: 12px;
 }
