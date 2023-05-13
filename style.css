@@ -128,7 +128,7 @@ p{
 }
 
 footer {
-  margin-top: 176px;
+  margin-top: 176px !important;
   bottom: 0;
   height: 310px;
 }
@@ -143,4 +143,8 @@ footer {
   font-size: 18px;
   font-weight: 300;
   color: #B0B0B0;
+}
+
+.button-custom {
+  margin-bottom: 100px;
 }
