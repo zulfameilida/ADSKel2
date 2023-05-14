@@ -232,3 +232,84 @@ footer {
   text-align: center;
   width: 100%;
 }
+
+.room-list {
+	padding: 0;
+  margin: 0 auto;
+  max-width: 800px;
+}
+
+.room-item {
+  overflow: auto;
+  background-color: white;
+  padding: 20px;
+  margin-bottom: 40px;
+  border-radius: 15px;
+}
+
+.room-item img {
+  float: left;
+  margin-right: 20px;
+  margin-bottom: 10px;
+}
+
+.header-custom-5 {
+  font-weight: 600;
+  font-size: 18px;
+  color: #1A1A1A;
+}
+
+.availability {
+  font-weight: 600;
+  font-size: 14px;
+  color: #4F4F4F;
+}
+
+.setelah-room {
+  font-weight: 400;
+  font-size: 12px;
+  color: #4F4F4F;
+}
+
+.btn-detail {
+  margin-top: 2px;
+  padding: 7.5px 24px;
+}
+
+.custom-header-2 {
+  font-weight: 600;
+  font-size: 36px;
+  color: #2B2F38;
+}
+
+.custom-text-2 {
+  font-weight: 600;
+  font-size: 26px;
+  color: #2B2F38;
+}
+
+.custom-text-7 {
+  text-align: justify;
+  font-weight: 400;
+  font-size: 23px;
+  color: #000;
+}
+
+.custom-text-8 {
+  font-weight: 400;
+  font-size: 23px;
+  color: #383E49;
+}
+
+.custom-text-9 {
+  margin-bottom: 30px;
+  font-weight: 500;
+  font-size: 23px;
+  color: #284B63;
+}
+
+.custom-text-10 {
+  font-weight: 500;
+  font-size: 23px;
+  color: #000;
+}
