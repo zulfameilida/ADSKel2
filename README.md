@@ -2,10 +2,10 @@
 
 ## A. Product Vision Documents 
 ### 1. Problem Description
-Prosedur reservasi ruangan yang **rumit** dan **memakan waktu yang lama** di IPB University adalah masalah yang ingin kami atasi. Ini adalah kesulitan yang dihadapi oleh banyak individu yang merupakan anggota dari sebuah kepanitiaan atau organisasi, karena prosesnya membutuhkan beberapa pihak, dokumentasi, dan pertemuan fisik. Tujuan dari produk kami adalah untuk **mengembangkan platform berbasis web yang menyederhanakan proses pemesanan ruangan di IPB serta membuatnya lebih efisien dan user-friendly**. Pengguna dapat mencari ruangan yang tersedia, melakukan reservasi, dan menerima konfirmasi di satu tempat menggunakan platform kami. Kami juga akan menyederhanakan proses dengan menghilangkan kebutuhan akan dokumen fisik dan memungkinkan pengguna untuk menandatangani dan mengirimkan dokumen secara digital. Semua pihak, termasuk penanggung jawab ruangan, administrator, dan pengguna ruangan, akan mendapatkan keuntungan dari keterbukaan dan visibilitas platform kami. Kami berupaya menghemat waktu dan biaya dengan mengembangkan solusi yang terkonsolidasi dan disederhanakan.
+Prosedur **reservasi ruangan yang rumit** dan **memakan banyak waktu** di IPB University adalah masalah yang ingin kami atasi. Ini merupakan kesulitan yang dihadapi oleh banyak individu yang merupakan anggota dari sebuah kepanitiaan atau organisasi, karena prosesnya membutuhkan beberapa pihak, dokumentasi, dan pertemuan fisik. Tujuan dari produk kami adalah untuk **mengembangkan platform berbasis web yang menyederhanakan proses pemesanan ruangan di IPB serta membuatnya lebih efisien dan user-friendly**. Pengguna dapat mencari ruangan yang tersedia, melakukan reservasi, dan menerima konfirmasi di satu tempat menggunakan platform kami. Kami juga akan menyederhanakan proses dengan menghilangkan kebutuhan akan dokumen fisik dan memungkinkan pengguna untuk mengirimkan dokumen secara digital. Semua pihak, termasuk penanggung jawab ruangan, administrator, dan pengguna ruangan, akan mendapatkan keuntungan dari keterbukaan dan visibilitas platform kami. Kami berupaya menghemat waktu dan biaya dengan mengembangkan solusi yang terkonsolidasi dan disederhanakan.
 
 ### 2. Kapabilitas Sistem
-* Sistem web reservasi ruangan yang dibuat hanya tersedia untuk institusi IPB. Institusi lain selain IPB tidak dapat menggunakan platform ini.
+* Sistem web reservasi ruangan hanya tersedia untuk institusi IPB. Institusi lain selain IPB tidak dapat menggunakan platform ini.
 * Sumber data untuk informasi ketersediaan ruangan data dari ruangan IPB, yang memastikan bahwa ketersediaan dan spesifikasi ruangan selalu terbaru dan benar.
 * Platform ini memiliki fungsi pencarian dan pemesanan ruangan yang efektif, sehingga memudahkan pengguna untuk menemukan ruangan yang tersedia dan melakukan pemesanan.
 
@@ -16,9 +16,8 @@ Sistem ini berguna agar proses peminjaman ruangan yang selama ini dilakukan seca
 ### 1. Use Case Diagram
 ![use case](https://user-images.githubusercontent.com/78604686/232186964-706910de-95ab-4e08-8c50-0b047137a067.jpg)
 
-### 2. Activity Diagram
-lalalllallalla
-HAHHAHAHAA
-CUCUUCUCUCUUCUC
-KOOKOKKOK
-### 3. Class Diagram
+### 2. Pembuatan Fully Developed Use Case Description
+
+### 3. Activity Diagram
+
+### 4. Class Diagram
