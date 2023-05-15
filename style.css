@@ -313,3 +313,32 @@ footer {
   font-size: 23px;
   color: #000;
 }
+
+.common-class-room{
+  margin-top: 40px;
+  margin-left: 23px;
+  font-size: 36px;
+  font-weight: 600;
+  color: #1A1A1A;
+}
+
+.custom-logo {
+  width: 20px; 
+  height: 20px; 
+  margin-left: 23px; 
+}
+
+.new-text {
+  margin-left: 8px;
+  font-size: 14px; 
+  color: #333333;
+}
+
+.overview-list {
+	list-style: none;
+	padding: 30px;;
+  margin-top: 20px;
+  max-width: 900px;
+}
+
+
