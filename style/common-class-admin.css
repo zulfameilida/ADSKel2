@@ -1,0 +1,38 @@
+.option-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+.option-container img {
+  transition: all ease-in-out 300ms;
+}
+.option-container img:hover {
+  transform: scale(0.96);
+}
+button {
+  background-color: var(--primary);
+  outline: none;
+  border: none;
+  padding: 10px 20px 10px 20px;
+  border-radius: 5px !important;
+  color: white;
+  margin-top: 90px !important;
+}
+@media only screen and (min-width: 800px) {
+  .option-container {
+    flex-direction: row !important;
+    align-items: center !important;
+    justify-content: center;
+  }
+  .option-container img {
+    height: 200px;
+  }
+}
+@media only screen and (min-width: 1000px) {
+  .option-container img {
+    height: 240px;
+  }
+  .container {
+    width: 780px !important;
+  }
+}
