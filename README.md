@@ -1,5 +1,12 @@
 # RoomieBoomie.com
 
+| No | NIM  | Nama | Role
+| :-----: | :-------------: | :-----------: | :-------: |
+| 1. | G6401201029 | Muhammad Daffa Fakhi Irmawan | Back End Developer |
+| 2. | G6401201035 | Salma Athoetani   | UI/UX Designer |
+| 3. | G6401201045 | Maya Amelia   | Front End Developer |
+| 4. | G6401201046 | Zulfa Meilida  | Project Manager/Front End Developer |
+
 ## A. Product Vision Documents 
 ### 1. Problem Description
 Prosedur **reservasi ruangan yang rumit** dan **memakan banyak waktu** di IPB University adalah masalah yang ingin kami atasi. Ini merupakan kesulitan yang dihadapi oleh banyak individu yang merupakan anggota dari sebuah kepanitiaan atau organisasi, karena prosesnya membutuhkan beberapa pihak, dokumentasi, dan pertemuan fisik. Tujuan dari produk kami adalah untuk **mengembangkan platform berbasis web yang menyederhanakan proses pemesanan ruangan di IPB serta membuatnya lebih efisien dan user-friendly**. Pengguna dapat mencari ruangan yang tersedia, melakukan reservasi, dan menerima konfirmasi di satu tempat menggunakan platform kami. Kami juga akan menyederhanakan proses dengan menghilangkan kebutuhan akan dokumen fisik dan memungkinkan pengguna untuk mengirimkan dokumen secara digital. Semua pihak, termasuk penanggung jawab ruangan, administrator, dan pengguna ruangan, akan mendapatkan keuntungan dari keterbukaan dan visibilitas platform kami. Kami berupaya menghemat waktu dan biaya dengan mengembangkan solusi yang terkonsolidasi dan disederhanakan.
