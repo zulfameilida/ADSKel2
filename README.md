@@ -17,6 +17,10 @@ Sistem ini berguna agar proses peminjaman ruangan yang selama ini dilakukan seca
 ![use case](https://user-images.githubusercontent.com/78604686/232186964-706910de-95ab-4e08-8c50-0b047137a067.jpg)
 
 ### 2. Pembuatan Fully Developed Use Case Description
+![LoginCaseDiagram](https://github.com/zulfameilida/ADSKel2/assets/88767759/b94902cb-45c2-406d-a5d3-ccaee078d5d8)
+![BookingRoom](https://github.com/zulfameilida/ADSKel2/assets/88767759/3ae71250-b65e-4a6d-85db-0142b2519426)
+![MelihatBookingRoom](https://github.com/zulfameilida/ADSKel2/assets/88767759/0f25ea04-dd3b-49a0-8088-e30237de8eac)
+
 
 
 ### 3. Activity Diagram
